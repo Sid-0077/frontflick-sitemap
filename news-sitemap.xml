@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <url>
+    <loc>https://www.frontflick.com/2025/02/chris-kluwes-wild-ride-from-nfl-punter.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>FrontFlick</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-02-29</news:publication_date>
+      <news:title>Chris Kluwe's Wild Ride from NFL Punter</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.frontflick.com/2025/02/natalia-graces-bizarre-journey-takes.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>FrontFlick</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-02-28</news:publication_date>
+      <news:title>Natalia Grace's Bizarre Journey Takes a New Turn</news:title>
+    </news:news>
+  </url>
+
+</urlset>
